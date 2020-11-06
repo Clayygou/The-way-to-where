@@ -3,7 +3,7 @@ some tries
 ## Time series 
 ### Review
 
-- Deep learning for time series classification: a review
+- Deep learning for time series classification: a review (Data Mining and Knowledge Discovery 期刊)[code](https://github.com/hfawaz/dl-4-tsc)
 
 ### Multivariate Time Series Classfication
 
