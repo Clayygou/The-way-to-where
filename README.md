@@ -11,4 +11,10 @@ some tries
 
 - Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series (AAAI-2020) [code](https://github.com/DerronXu/DeepTrends/tree/master)
 
-### Time series 
+### Multivariate Time Series Prediction
+
+### Time Series Modeling
+
+### Time Series Analyse
+
+### Time Series 
