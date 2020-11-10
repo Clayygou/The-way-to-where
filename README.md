@@ -29,3 +29,6 @@
 ### Text-to-image Generation
 
 ### Visual Question Answering
+
+### Github
+- https://github.com/pliang279/awesome-multimodal-ml#multimodal-fusion
